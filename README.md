@@ -52,13 +52,17 @@
     </tr>
   </tbody>
 </table>
+</br>
 <a href="https://github.com/eliasz130/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=eliasz130&theme=transparent" />
 </a>
+</br>
 <a href="https://github.com/eliasz139/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eliasz130&theme=transparent&layout=compact&langs_count=8&card_width=320" />
 </a>
+</br>
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/67381a44f20970fd482df430?variant=dark&roadmaps=full-stack%2Cfrontend%2Cbackend%2Ccyber-security" alt="roadmap.sh"/></a>
+</br>
 <h3>Where to find me</h3>
 <p><a href="https://github.com/eliasz130" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://leetcode.com/u/eliasz130/" target="_blank"><img alt="Leetcode" src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06" /></a>
 </p>
