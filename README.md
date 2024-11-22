@@ -68,4 +68,4 @@
 </p>
 
 ------------
-<a href= "mailto: eliaspublic@icloud.com"> Email me </a> or <a href= "+14124676117">Text me.
+<a href= "mailto: eliaspublic@icloud.com"> Email me </a> or Text me: +1 (412) 467-6117
