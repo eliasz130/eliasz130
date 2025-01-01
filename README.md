@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Elias, a Cybersecurity and Fullstack enthusiast  from <img src="https://github.com/user-attachments/assets/addfb8ed-7274-44d3-9c99-7119b15d8d5f" width="13"/> <b>PA, USA</b>
+<p>Welcome to my page! </br> I'm Elias, a Python developer, Cybersecurity enthusiast, and learning sysadmin from <img src="https://github.com/user-attachments/assets/addfb8ed-7274-44d3-9c99-7119b15d8d5f" width="13"/> <b>PA, USA</b>
 <h3>Things I code with</h3>
 <p>
   <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff" />
